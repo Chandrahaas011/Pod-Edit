@@ -1,0 +1,13 @@
+# PodEdit 1.5. Install a CPU-only PyTorch build first when available:
+#   pip install torch torchaudio --index-url https://download.pytorch.org/whl/cpu
+#   pip install -r requirements.txt
+pyannote.audio==4.0.4
+huggingface_hub>=0.28.1
+
+soundfile>=0.14
+soxr>=1.0
+opencv-python>=4.10,<5
+scipy>=1.15
+numpy>=2.0
+ffmpeg-python>=0.2
+python-dotenv>=1.0

@@ -1,0 +1,142 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+**/build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+venv/
+.venv/
+env/
+.env/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment Variables and Secrets
+.env
+.env.*
+!.env.example
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Caches and App Data
+.model_cache/
+.agent/
+.agents/
+.dotnet_cli/
+.nuget/
+.appdata/
+.localappdata/
+.desktop_state/
+.cache/
+*.cache
+.pytest_cache/
+.hypothesis/
+
+# Windows / OS
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.AppleDouble
+.LSOverride
+
+# .NET / Desktop build outputs
+**/bin/
+**/obj/
+desktop/**/bin/
+desktop/**/obj/
+
+# Packaging build outputs (PyInstaller, etc.)
+packaging/build/
+packaging/**/build/
+*.spec.bak
+
+# Large media files
+*.wav
+*.mp3
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.flac
+
+# Generated outputs and scratch directories
+tmp/
+output/
+xml_outputs/
+*.log
+*.events.jsonl
+
+# Results folder: exclude generated artifacts while preserving documentation
+results/*
+!results/progress_update.md
+!results/baseline_manual_editing/
+!results/baseline_manual_editing/README.md
+!results/commercial_tool_results/
+!results/commercial_tool_results/README.md
+!results/our_tool_results/
+!results/our_tool_results/README.md
+
+# Large datasets and media
+datasets/*/audio/
+datasets/*/video/
+datasets/*/*.wav
+datasets/*/*.mp3
+datasets/*/*.mp4
+datasets/*/*.mov
+datasets/*/*.avi
+datasets/*/*.mkv
+datasets/*/*.flac
+
+# Keep metadata and ground truth JSON files
+!datasets/*/metadata.json
+!datasets/*/ground_truth.json
+
+# Temporary files
+*.tmp
+*.temp
+
+# Test coverage
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+nosetests.xml
+coverage.xml
+*.cover
+
+# Paper and manuscript files (confidential research)
+paper/
+research paper.md
+research_paper.md
+RESEARCH_PLAN.md
+*.pdf
+*.tex

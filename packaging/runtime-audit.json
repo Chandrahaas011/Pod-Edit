@@ -1,0 +1,931 @@
+{
+  "distributions": [
+    {
+      "bytes": 62741,
+      "license": "PSF-2.0",
+      "name": "aiohappyeyeballs",
+      "project_url": "Bug Tracker, https://github.com/aio-libs/aiohappyeyeballs/issues",
+      "version": "2.7.1"
+    },
+    {
+      "bytes": 2715012,
+      "license": "Apache-2.0 AND MIT",
+      "name": "aiohttp",
+      "project_url": "Homepage, https://github.com/aio-libs/aiohttp",
+      "version": "3.14.1"
+    },
+    {
+      "bytes": 20063,
+      "license": "Apache 2.0",
+      "name": "aiosignal",
+      "project_url": "https://github.com/aio-libs/aiosignal",
+      "version": "1.4.0"
+    },
+    {
+      "bytes": 2297080,
+      "license": "MIT",
+      "name": "alembic",
+      "project_url": "Homepage, https://alembic.sqlalchemy.org",
+      "version": "1.18.5"
+    },
+    {
+      "bytes": 130350,
+      "license": "MIT",
+      "name": "altgraph",
+      "project_url": "https://altgraph.readthedocs.io",
+      "version": "0.17.5"
+    },
+    {
+      "bytes": 11946,
+      "license": "MIT",
+      "name": "annotated-doc",
+      "project_url": "Homepage, https://github.com/fastapi/annotated-doc",
+      "version": "0.0.4"
+    },
+    {
+      "bytes": 928559,
+      "license": "BSD",
+      "name": "antlr4-python3-runtime",
+      "project_url": "http://www.antlr.org",
+      "version": "4.9.3"
+    },
+    {
+      "bytes": 1221274,
+      "license": "MIT",
+      "name": "anyio",
+      "project_url": "Documentation, https://anyio.readthedocs.io/en/latest/",
+      "version": "4.14.2"
+    },
+    {
+      "bytes": 192993,
+      "license": "MIT",
+      "name": "asteroid-filterbanks",
+      "project_url": "https://github.com/asteroid-team/asteroid-filterbanks",
+      "version": "0.4.0"
+    },
+    {
+      "bytes": 440335,
+      "license": "MIT",
+      "name": "attrs",
+      "project_url": "Documentation, https://www.attrs.org/",
+      "version": "26.1.0"
+    },
+    {
+      "bytes": 70105,
+      "license": "PSF-2.0",
+      "name": "audioop-lts",
+      "project_url": "github, https://github.com/AbstractUmbra/audioop",
+      "version": "0.2.2"
+    },
+    {
+      "bytes": 120691,
+      "license": "MIT",
+      "name": "audioread",
+      "project_url": "Bug Tracker, https://github.com/beetbox/audioread/issues",
+      "version": "3.1.0"
+    },
+    {
+      "bytes": 245670,
+      "license": "MPL-2.0",
+      "name": "certifi",
+      "project_url": "https://github.com/certifi/python-certifi",
+      "version": "2026.6.17"
+    },
+    {
+      "bytes": 1106075,
+      "license": "MIT-0",
+      "name": "cffi",
+      "project_url": "Documentation, https://cffi.readthedocs.io/",
+      "version": "2.1.0"
+    },
+    {
+      "bytes": 755119,
+      "license": "MIT",
+      "name": "charset-normalizer",
+      "project_url": "Changelog, https://github.com/jawah/charset_normalizer/blob/master/CHANGELOG.md",
+      "version": "3.4.9"
+    },
+    {
+      "bytes": 914652,
+      "license": "BSD-3-Clause",
+      "name": "click",
+      "project_url": "Changes, https://click.palletsprojects.com/page/changes/",
+      "version": "8.4.2"
+    },
+    {
+      "bytes": 170257,
+      "license": "BSD License",
+      "name": "colorama",
+      "project_url": "Homepage, https://github.com/tartley/colorama",
+      "version": "0.4.6"
+    },
+    {
+      "bytes": 47612,
+      "license": "MIT License",
+      "name": "colorlog",
+      "project_url": "https://github.com/borntyping/python-colorlog",
+      "version": "6.10.1"
+    },
+    {
+      "bytes": 746765,
+      "license": "BSD 3-Clause License",
+      "name": "contourpy",
+      "project_url": "Homepage, https://github.com/contourpy/contourpy",
+      "version": "1.3.3"
+    },
+    {
+      "bytes": 45136,
+      "license": "Copyright (c) 2015, matplotlib project",
+      "name": "cycler",
+      "project_url": "homepage, https://matplotlib.org/cycler/",
+      "version": "0.12.1"
+    },
+    {
+      "bytes": 48511,
+      "license": "BSD-2-Clause",
+      "name": "decorator",
+      "project_url": "",
+      "version": "5.3.1"
+    },
+    {
+      "bytes": 72927,
+      "license": "MIT",
+      "name": "docopt",
+      "project_url": "http://docopt.org",
+      "version": "0.6.2"
+    },
+    {
+      "bytes": 531172,
+      "license": "MIT",
+      "name": "einops",
+      "project_url": "Homepage, https://github.com/arogozhnikov/einops",
+      "version": "0.8.2"
+    },
+    {
+      "bytes": 158680,
+      "license": "Apache Software License",
+      "name": "ffmpeg-python",
+      "project_url": "https://github.com/kkroening/ffmpeg-python",
+      "version": "0.2.0"
+    },
+    {
+      "bytes": 283020,
+      "license": "MIT",
+      "name": "filelock",
+      "project_url": "Documentation, https://py-filelock.readthedocs.io",
+      "version": "3.29.0"
+    },
+    {
+      "bytes": 16533748,
+      "license": "MIT",
+      "name": "fonttools",
+      "project_url": "http://github.com/fonttools/fonttools",
+      "version": "4.63.0"
+    },
+    {
+      "bytes": 113469,
+      "license": "Apache-2.0",
+      "name": "frozenlist",
+      "project_url": "https://github.com/aio-libs/frozenlist",
+      "version": "1.8.0"
+    },
+    {
+      "bytes": 1683310,
+      "license": "BSD-3-Clause",
+      "name": "fsspec",
+      "project_url": "Changelog, https://filesystem-spec.readthedocs.io/en/latest/changelog.html",
+      "version": "2026.4.0"
+    },
+    {
+      "bytes": 3503395,
+      "license": "MIT",
+      "name": "future",
+      "project_url": "https://python-future.org",
+      "version": "1.0.0"
+    },
+    {
+      "bytes": 934192,
+      "license": "Apache 2.0",
+      "name": "googleapis-common-protos",
+      "project_url": "Repository, https://github.com/googleapis/google-cloud-python/tree/main/packages/googleapis-common-protos",
+      "version": "1.75.1"
+    },
+    {
+      "bytes": 951438,
+      "license": "MIT AND PSF-2.0",
+      "name": "greenlet",
+      "project_url": "Homepage, https://greenlet.readthedocs.io",
+      "version": "3.5.3"
+    },
+    {
+      "bytes": 13189910,
+      "license": "Apache-2.0",
+      "name": "grpcio",
+      "project_url": "Homepage, https://grpc.io",
+      "version": "1.83.0"
+    },
+    {
+      "bytes": 186194,
+      "license": "MIT",
+      "name": "h11",
+      "project_url": "https://github.com/python-hyper/h11",
+      "version": "0.16.0"
+    },
+    {
+      "bytes": 9751287,
+      "license": "Apache-2.0",
+      "name": "hf-xet",
+      "project_url": "Documentation, https://huggingface.co/docs/hub/xet/index",
+      "version": "1.5.1"
+    },
+    {
+      "bytes": 631492,
+      "license": "BSD-3-Clause",
+      "name": "httpcore",
+      "project_url": "Documentation, https://www.encode.io/httpcore",
+      "version": "1.0.9"
+    },
+    {
+      "bytes": 745295,
+      "license": "BSD-3-Clause",
+      "name": "httpx",
+      "project_url": "Changelog, https://github.com/encode/httpx/blob/master/CHANGELOG.md",
+      "version": "0.28.1"
+    },
+    {
+      "bytes": 4853541,
+      "license": "Apache",
+      "name": "huggingface_hub",
+      "project_url": "https://github.com/huggingface/huggingface_hub",
+      "version": "0.36.2"
+    },
+    {
+      "bytes": 74378,
+      "license": "Apache Software License",
+      "name": "HyperPyYAML",
+      "project_url": "https://github.com/speechbrain/HyperPyYAML",
+      "version": "1.2.3"
+    },
+    {
+      "bytes": 600083,
+      "license": "BSD-3-Clause",
+      "name": "idna",
+      "project_url": "Changelog, https://github.com/kjd/idna/blob/master/HISTORY.md",
+      "version": "3.18"
+    },
+    {
+      "bytes": 1176090,
+      "license": "BSD License",
+      "name": "Jinja2",
+      "project_url": "Changes, https://jinja.palletsprojects.com/changes/",
+      "version": "3.1.6"
+    },
+    {
+      "bytes": 1968380,
+      "license": "BSD-3-Clause",
+      "name": "joblib",
+      "project_url": "Homepage, https://joblib.readthedocs.io",
+      "version": "1.5.3"
+    },
+    {
+      "bytes": 116872,
+      "license": "MIT License",
+      "name": "julius",
+      "project_url": "Homepage, https://github.com/adefossez/julius",
+      "version": "0.2.8"
+    },
+    {
+      "bytes": 183998,
+      "license": "=========================",
+      "name": "kiwisolver",
+      "project_url": "homepage, https://github.com/nucleic/kiwi",
+      "version": "1.5.0"
+    },
+    {
+      "bytes": 32575,
+      "license": "BSD-3-Clause",
+      "name": "lazy-loader",
+      "project_url": "Home, https://scientific-python.org/specs/spec-0001/",
+      "version": "0.5"
+    },
+    {
+      "bytes": 1994107,
+      "license": "ISC",
+      "name": "librosa",
+      "project_url": "https://librosa.org",
+      "version": "0.11.0"
+    },
+    {
+      "bytes": 5779148,
+      "license": "Apache-2.0",
+      "name": "lightning",
+      "project_url": "https://github.com/Lightning-AI/lightning",
+      "version": "2.6.5"
+    },
+    {
+      "bytes": 172175,
+      "license": "Apache-2.0",
+      "name": "lightning-utilities",
+      "project_url": "https://github.com/Lightning-AI/utilities",
+      "version": "0.15.3"
+    },
+    {
+      "bytes": 122401881,
+      "license": "BSD-2-Clause AND Apache-2.0 WITH LLVM-exception",
+      "name": "llvmlite",
+      "project_url": "http://llvmlite.readthedocs.io",
+      "version": "0.48.0"
+    },
+    {
+      "bytes": 753927,
+      "license": "MIT",
+      "name": "Mako",
+      "project_url": "https://www.makotemplates.org/",
+      "version": "1.3.12"
+    },
+    {
+      "bytes": 613606,
+      "license": "MIT License",
+      "name": "markdown-it-py",
+      "project_url": "Documentation, https://markdown-it-py.readthedocs.io",
+      "version": "4.2.0"
+    },
+    {
+      "bytes": 59132,
+      "license": "BSD-3-Clause",
+      "name": "MarkupSafe",
+      "project_url": "Donate, https://palletsprojects.com/donate",
+      "version": "3.0.3"
+    },
+    {
+      "bytes": 33488984,
+      "license": "License agreement for matplotlib versions 1.3.0 and later",
+      "name": "matplotlib",
+      "project_url": "Homepage, https://matplotlib.org",
+      "version": "3.11.0"
+    },
+    {
+      "bytes": 40707,
+      "license": "MIT License",
+      "name": "mdurl",
+      "project_url": "Homepage, https://github.com/executablebooks/mdurl",
+      "version": "0.1.2"
+    },
+    {
+      "bytes": 4576792,
+      "license": "BSD",
+      "name": "mpmath",
+      "project_url": "http://mpmath.org/",
+      "version": "1.3.0"
+    },
+    {
+      "bytes": 231793,
+      "license": "Apache-2.0",
+      "name": "msgpack",
+      "project_url": "Homepage, https://msgpack.org/",
+      "version": "1.2.1"
+    },
+    {
+      "bytes": 205643,
+      "license": "Apache License 2.0",
+      "name": "multidict",
+      "project_url": "https://github.com/aio-libs/multidict",
+      "version": "6.7.1"
+    },
+    {
+      "bytes": 4488428,
+      "license": "MIT",
+      "name": "narwhals",
+      "project_url": "Homepage, https://github.com/narwhals-dev/narwhals",
+      "version": "2.24.0"
+    },
+    {
+      "bytes": 15483868,
+      "license": "BSD-3-Clause",
+      "name": "networkx",
+      "project_url": "Homepage, https://networkx.org/",
+      "version": "3.6.1"
+    },
+    {
+      "bytes": 27223653,
+      "license": "BSD",
+      "name": "numba",
+      "project_url": "https://numba.pydata.org",
+      "version": "0.66.0"
+    },
+    {
+      "bytes": 52674263,
+      "license": "BSD-3-Clause AND 0BSD AND MIT AND Zlib AND CC0-1.0",
+      "name": "numpy",
+      "project_url": "homepage, https://numpy.org",
+      "version": "2.4.6"
+    },
+    {
+      "bytes": 790139,
+      "license": "BSD License",
+      "name": "omegaconf",
+      "project_url": "https://github.com/omry/omegaconf",
+      "version": "2.3.1"
+    },
+    {
+      "bytes": 114123046,
+      "license": "Apache 2.0",
+      "name": "opencv-python",
+      "project_url": "https://github.com/opencv/opencv-python",
+      "version": "4.13.0.92"
+    },
+    {
+      "bytes": 413798,
+      "license": "Apache-2.0",
+      "name": "opentelemetry-api",
+      "project_url": "Homepage, https://github.com/open-telemetry/opentelemetry-python/tree/main/opentelemetry-api",
+      "version": "1.44.0"
+    },
+    {
+      "bytes": 15378,
+      "license": "Apache-2.0",
+      "name": "opentelemetry-exporter-otlp",
+      "project_url": "Homepage, https://github.com/open-telemetry/opentelemetry-python/tree/main/exporter/opentelemetry-exporter-otlp",
+      "version": "1.44.0"
+    },
+    {
+      "bytes": 89760,
+      "license": "Apache-2.0",
+      "name": "opentelemetry-exporter-otlp-proto-common",
+      "project_url": "Homepage, https://github.com/open-telemetry/opentelemetry-python/tree/main/exporter/opentelemetry-exporter-otlp-proto-common",
+      "version": "1.44.0"
+    },
+    {
+      "bytes": 106753,
+      "license": "Apache-2.0",
+      "name": "opentelemetry-exporter-otlp-proto-grpc",
+      "project_url": "Homepage, https://github.com/open-telemetry/opentelemetry-python/tree/main/exporter/opentelemetry-exporter-otlp-proto-grpc",
+      "version": "1.44.0"
+    },
+    {
+      "bytes": 133155,
+      "license": "Apache-2.0",
+      "name": "opentelemetry-exporter-otlp-proto-http",
+      "project_url": "Homepage, https://github.com/open-telemetry/opentelemetry-python/tree/main/exporter/opentelemetry-exporter-otlp-proto-http",
+      "version": "1.44.0"
+    },
+    {
+      "bytes": 319717,
+      "license": "Apache-2.0",
+      "name": "opentelemetry-proto",
+      "project_url": "Homepage, https://github.com/open-telemetry/opentelemetry-python/tree/main/opentelemetry-proto",
+      "version": "1.44.0"
+    },
+    {
+      "bytes": 1042153,
+      "license": "Apache-2.0",
+      "name": "opentelemetry-sdk",
+      "project_url": "Homepage, https://github.com/open-telemetry/opentelemetry-python/tree/main/opentelemetry-sdk",
+      "version": "1.44.0"
+    },
+    {
+      "bytes": 1191998,
+      "license": "Apache-2.0",
+      "name": "opentelemetry-semantic-conventions",
+      "project_url": "Homepage, https://github.com/open-telemetry/opentelemetry-python/tree/main/opentelemetry-semantic-conventions",
+      "version": "0.65b0"
+    },
+    {
+      "bytes": 3395553,
+      "license": "MIT License",
+      "name": "optuna",
+      "project_url": "homepage, https://optuna.org/",
+      "version": "4.9.0"
+    },
+    {
+      "bytes": 772783,
+      "license": "Apache-2.0 OR BSD-2-Clause",
+      "name": "packaging",
+      "project_url": "Documentation, https://packaging.pypa.io/",
+      "version": "26.2"
+    },
+    {
+      "bytes": 63598361,
+      "license": "BSD 3-Clause License",
+      "name": "pandas",
+      "project_url": "homepage, https://pandas.pydata.org",
+      "version": "3.0.3"
+    },
+    {
+      "bytes": 671647,
+      "license": "MIT",
+      "name": "pefile",
+      "project_url": "https://github.com/erocarrera/pefile",
+      "version": "2024.8.26"
+    },
+    {
+      "bytes": 16158291,
+      "license": "MIT-CMU",
+      "name": "pillow",
+      "project_url": "Release notes, https://pillow.readthedocs.io/en/stable/releasenotes/index.html",
+      "version": "12.3.0"
+    },
+    {
+      "bytes": 253908,
+      "license": "MIT",
+      "name": "platformdirs",
+      "project_url": "Changelog, https://platformdirs.readthedocs.io/en/latest/changelog.html",
+      "version": "4.10.0"
+    },
+    {
+      "bytes": 549116,
+      "license": "BSD-3-Clause",
+      "name": "pooch",
+      "project_url": "Documentation, https://www.fatiando.org/pooch",
+      "version": "1.9.0"
+    },
+    {
+      "bytes": 11818,
+      "license": "MIT License",
+      "name": "primePy",
+      "project_url": "https://github.com/janaindrajit/primePy",
+      "version": "1.3"
+    },
+    {
+      "bytes": 105650,
+      "license": "Apache-2.0",
+      "name": "propcache",
+      "project_url": "https://github.com/aio-libs/propcache",
+      "version": "0.5.2"
+    },
+    {
+      "bytes": 2639582,
+      "license": "3-Clause BSD License",
+      "name": "protobuf",
+      "project_url": "https://developers.google.com/protocol-buffers/",
+      "version": "7.35.1"
+    },
+    {
+      "bytes": 2549904,
+      "license": "MIT",
+      "name": "pyannote-audio",
+      "project_url": "",
+      "version": "4.0.4"
+    },
+    {
+      "bytes": 375330,
+      "license": "MIT",
+      "name": "pyannote-core",
+      "project_url": "",
+      "version": "6.0.1"
+    },
+    {
+      "bytes": 405471,
+      "license": "MIT",
+      "name": "pyannote-database",
+      "project_url": "",
+      "version": "6.1.1"
+    },
+    {
+      "bytes": 463991,
+      "license": "MIT",
+      "name": "pyannote-metrics",
+      "project_url": "",
+      "version": "4.1"
+    },
+    {
+      "bytes": 238736,
+      "license": "MIT",
+      "name": "pyannote-pipeline",
+      "project_url": "",
+      "version": "4.0.0"
+    },
+    {
+      "bytes": 46945,
+      "license": "MIT",
+      "name": "pyannoteai-sdk",
+      "project_url": "",
+      "version": "0.4.0"
+    },
+    {
+      "bytes": 436870,
+      "license": "BSD-3-Clause",
+      "name": "pycparser",
+      "project_url": "Homepage, https://github.com/eliben/pycparser",
+      "version": "3.0"
+    },
+    {
+      "bytes": 8506750,
+      "license": "BSD-2-Clause",
+      "name": "Pygments",
+      "project_url": "Homepage, https://pygments.org",
+      "version": "2.20.0"
+    },
+    {
+      "bytes": 5065013,
+      "license": "GPLv2-or-later with a special exception which allows to use PyInstaller to build and distribute non-free programs (including commercial ones)",
+      "name": "pyinstaller",
+      "project_url": "Homepage, https://pyinstaller.org",
+      "version": "6.22.0"
+    },
+    {
+      "bytes": 1177961,
+      "license": "Apache Software License, GNU General Public License v2 (GPLv2)",
+      "name": "pyinstaller-hooks-contrib",
+      "project_url": "https://github.com/pyinstaller/pyinstaller-hooks-contrib",
+      "version": "2026.6"
+    },
+    {
+      "bytes": 980603,
+      "license": "MIT",
+      "name": "pyparsing",
+      "project_url": "Documentation, https://pyparsing-docs.readthedocs.io/en/latest/",
+      "version": "3.3.2"
+    },
+    {
+      "bytes": 743690,
+      "license": "Dual License",
+      "name": "python-dateutil",
+      "project_url": "https://github.com/dateutil/dateutil",
+      "version": "2.9.0.post0"
+    },
+    {
+      "bytes": 221172,
+      "license": "BSD-3-Clause",
+      "name": "python-dotenv",
+      "project_url": "Source, https://github.com/theskumar/python-dotenv",
+      "version": "1.2.2"
+    },
+    {
+      "bytes": 5672421,
+      "license": "Apache-2.0",
+      "name": "pytorch-lightning",
+      "project_url": "https://github.com/Lightning-AI/lightning",
+      "version": "2.6.5"
+    },
+    {
+      "bytes": 840945,
+      "license": "MIT License",
+      "name": "pytorch-metric-learning",
+      "project_url": "https://github.com/KevinMusgrave/pytorch-metric-learning",
+      "version": "2.9.0"
+    },
+    {
+      "bytes": 177061,
+      "license": "BSD-3-Clause",
+      "name": "pywin32-ctypes",
+      "project_url": "https://github.com/enthought/pywin32-ctypes",
+      "version": "0.2.3"
+    },
+    {
+      "bytes": 738197,
+      "license": "MIT",
+      "name": "PyYAML",
+      "project_url": "https://pyyaml.org/",
+      "version": "6.0.3"
+    },
+    {
+      "bytes": 478433,
+      "license": "Apache-2.0",
+      "name": "requests",
+      "project_url": "Documentation, https://requests.readthedocs.io",
+      "version": "2.34.2"
+    },
+    {
+      "bytes": 2591971,
+      "license": "MIT",
+      "name": "rich",
+      "project_url": "Documentation, https://rich.readthedocs.io/en/latest/",
+      "version": "15.0.0"
+    },
+    {
+      "bytes": 1223226,
+      "license": "MIT",
+      "name": "ruamel.yaml",
+      "project_url": "Home, https://sourceforge.net/p/ruamel-yaml/",
+      "version": "0.18.17"
+    },
+    {
+      "bytes": 276877,
+      "license": "MIT",
+      "name": "ruamel.yaml.clib",
+      "project_url": "Home, https://sourceforge.net/p/ruamel-yaml-clib/",
+      "version": "0.2.15"
+    },
+    {
+      "bytes": 909694,
+      "license": "Apache Software License",
+      "name": "safetensors",
+      "project_url": "Homepage, https://github.com/huggingface/safetensors",
+      "version": "0.8.0"
+    },
+    {
+      "bytes": 42103580,
+      "license": "BSD-3-Clause",
+      "name": "scikit-learn",
+      "project_url": "homepage, https://scikit-learn.org",
+      "version": "1.9.0"
+    },
+    {
+      "bytes": 134164900,
+      "license": "Copyright (c) 2001-2002 Enthought, Inc. 2003, SciPy Developers.",
+      "name": "scipy",
+      "project_url": "homepage, https://scipy.org/",
+      "version": "1.18.0"
+    },
+    {
+      "bytes": 216073,
+      "license": "Copyright (c) 2013, Konstantine Rybnikov",
+      "name": "semver",
+      "project_url": "GitHub Homepage, https://github.com/python-semver/python-semver",
+      "version": "3.0.4"
+    },
+    {
+      "bytes": 2665233,
+      "license": "Apache-2.0",
+      "name": "sentencepiece",
+      "project_url": "Homepage, https://github.com/google/sentencepiece",
+      "version": "0.2.2"
+    },
+    {
+      "bytes": 38458,
+      "license": "ISC License",
+      "name": "shellingham",
+      "project_url": "https://github.com/sarugaku/shellingham",
+      "version": "1.5.4"
+    },
+    {
+      "bytes": 80181,
+      "license": "MIT",
+      "name": "six",
+      "project_url": "https://github.com/benjaminp/six",
+      "version": "1.17.0"
+    },
+    {
+      "bytes": 266050,
+      "license": "Apache 2.0",
+      "name": "sortedcontainers",
+      "project_url": "http://www.grantjenks.com/docs/sortedcontainers/",
+      "version": "2.4.0"
+    },
+    {
+      "bytes": 2567974,
+      "license": "BSD 3-Clause License",
+      "name": "soundfile",
+      "project_url": "https://github.com/bastibe/python-soundfile",
+      "version": "0.14.0"
+    },
+    {
+      "bytes": 416766,
+      "license": "LGPL-2.1-or-later",
+      "name": "soxr",
+      "project_url": "Homepage, https://github.com/dofuuz/python-soxr",
+      "version": "1.1.0"
+    },
+    {
+      "bytes": 17675668,
+      "license": "Apache-2.0",
+      "name": "speechbrain",
+      "project_url": "Homepage, https://speechbrain.github.io/",
+      "version": "1.1.0"
+    },
+    {
+      "bytes": 17888407,
+      "license": "MIT",
+      "name": "SQLAlchemy",
+      "project_url": "https://www.sqlalchemy.org",
+      "version": "2.0.51"
+    },
+    {
+      "bytes": 82813,
+      "license": "PSF-2.0",
+      "name": "standard-aifc",
+      "project_url": "Homepage, https://github.com/youknowone/python-deadlib",
+      "version": "3.13.0"
+    },
+    {
+      "bytes": 17688,
+      "license": "PSF-2.0",
+      "name": "standard-chunk",
+      "project_url": "Homepage, https://github.com/youknowone/python-deadlib",
+      "version": "3.13.0"
+    },
+    {
+      "bytes": 49163,
+      "license": "PSF-2.0",
+      "name": "standard-sunau",
+      "project_url": "Homepage, https://github.com/youknowone/python-deadlib",
+      "version": "3.13.0"
+    },
+    {
+      "bytes": 69069177,
+      "license": "BSD",
+      "name": "sympy",
+      "project_url": "https://sympy.org",
+      "version": "1.14.0"
+    },
+    {
+      "bytes": 360987,
+      "license": "MIT",
+      "name": "tabulate",
+      "project_url": "Homepage, https://github.com/astanin/python-tabulate",
+      "version": "0.10.0"
+    },
+    {
+      "bytes": 463826,
+      "license": "MIT",
+      "name": "tensorboardX",
+      "project_url": "Homepage, https://github.com/lanpa/tensorboardX",
+      "version": "2.6.5"
+    },
+    {
+      "bytes": 124807,
+      "license": "BSD-3-Clause",
+      "name": "threadpoolctl",
+      "project_url": "https://github.com/joblib/threadpoolctl",
+      "version": "3.6.0"
+    },
+    {
+      "bytes": 519415345,
+      "license": "Apache-2.0 AND Apache-2.0 WITH LLVM-exception AND BSD-2-Clause AND BSD-3-Clause AND BSL-1.0 AND MIT",
+      "name": "torch",
+      "project_url": "Homepage, https://pytorch.org",
+      "version": "2.13.0"
+    },
+    {
+      "bytes": 289394,
+      "license": "MIT",
+      "name": "torch-audiomentations",
+      "project_url": "https://github.com/asteroid-team/torch-audiomentations",
+      "version": "0.12.0"
+    },
+    {
+      "bytes": 18261,
+      "license": "MIT License",
+      "name": "torch_pitch_shift",
+      "project_url": "https://github.com/KentoNishi/torch-pitch-shift",
+      "version": "1.2.5"
+    },
+    {
+      "bytes": 2426779,
+      "license": "BSD License",
+      "name": "torchaudio",
+      "project_url": "https://github.com/pytorch/audio",
+      "version": "2.11.0"
+    },
+    {
+      "bytes": 14451759,
+      "license": "BSD-3-Clause",
+      "name": "torchcodec",
+      "project_url": "GitHub, https://github.com/pytorch/torchcodec",
+      "version": "0.15.0"
+    },
+    {
+      "bytes": 7238847,
+      "license": "Apache-2.0",
+      "name": "torchmetrics",
+      "project_url": "https://github.com/Lightning-AI/torchmetrics",
+      "version": "1.9.0"
+    },
+    {
+      "bytes": 1176625,
+      "license": "MPL-2.0 AND MIT",
+      "name": "tqdm",
+      "project_url": "homepage, https://tqdm.github.io",
+      "version": "4.68.4"
+    },
+    {
+      "bytes": 1133244,
+      "license": "MIT",
+      "name": "typer",
+      "project_url": "Homepage, https://github.com/fastapi/typer",
+      "version": "0.27.0"
+    },
+    {
+      "bytes": 341156,
+      "license": "PSF-2.0",
+      "name": "typing_extensions",
+      "project_url": "Bug Tracker, https://github.com/python/typing_extensions/issues",
+      "version": "4.15.0"
+    },
+    {
+      "bytes": 588568,
+      "license": "Apache-2.0",
+      "name": "tzdata",
+      "project_url": "https://github.com/python/tzdata",
+      "version": "2026.3"
+    },
+    {
+      "bytes": 898644,
+      "license": "MIT",
+      "name": "urllib3",
+      "project_url": "Changelog, https://github.com/urllib3/urllib3/blob/main/CHANGES.rst",
+      "version": "2.7.0"
+    },
+    {
+      "bytes": 380529,
+      "license": "Apache-2.0",
+      "name": "yarl",
+      "project_url": "https://github.com/aio-libs/yarl",
+      "version": "1.24.2"
+    }
+  ],
+  "note": "Installed development environment; prune against clean-build imports before release.",
+  "schema_version": 1,
+  "total_bytes": 1417869268
+}

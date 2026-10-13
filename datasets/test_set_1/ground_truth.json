@@ -1,0 +1,21 @@
+{
+  "video_metadata": {
+    "camera1_file": "camera1_short.mp4",
+    "camera2_file": "camera2_short.mp4",
+    "recording_date": "2025-10-16",
+    "duration_seconds": 1500.0,
+    "podcast_type": "interview",
+    "audio_quality": "high",
+    "environment": "indoor_studio"
+  },
+  "annotation_status": "not_completed",
+  "annotation_template": "../../results/variable_speaker_25min/human_annotation.csv",
+  "manual_sync_offset": {
+    "camera2_offset_seconds": null,
+    "confidence": "not_independently_annotated",
+    "sync_method": "pending_manual_verification"
+  },
+  "silence_segments": [],
+  "speaker_segments": [],
+  "manual_editing_time_minutes": 0
+}
